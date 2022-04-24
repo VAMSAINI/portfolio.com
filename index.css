@@ -9,24 +9,32 @@
 }
 .hero-text {
   text-align: justify;
-  position: absolute;
-  top: 50%;
-  left: 65%;
-  transform: translate(-50%, -50%);
+  position: relative;
+  top: 30%;
+  left: 30%;
+
   color: white;
 }
-.card{
-  align-items: center;
-  align-content: center;
-  background-color:DeepSkyBlue;
+.heroine-bg{
+  background-color:DeepSkyBlue ;
+  height: 100%;
+  width: 100%;
+
 }
+.heroine-text{
+  align-content: center;
+  position: relative;
+  top: 10%;
+  text-align: center;
+  color: white;
+}
+
 .about-text{
   text-align: center;
   position: relative;
-  top: 20%;
-  left:50%;
-  transform: translate(-50%, -50%);
+  font-size: 17px;
   color: white;
+  font-family: sans-serif;
 }
 .tile1{
   background-color: White;
@@ -64,8 +72,9 @@
 }
 h4{
   font-size:250%;
+  font-family: serif;
   font-style: italic;
-  color: Navy;
+  color: DeepSkyBlue;
 }
 p{
   font-family: serif;
