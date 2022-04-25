@@ -1,0 +1,88 @@
+html, body {
+  width: 99.5%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.hero-image {
+  background-image: url("computer_Cofee3.jpeg");
+  height: 600px;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.hero-text {
+  text-align: justify;
+  position: relative;
+  top: 30%;
+  left: 30%;
+
+  color: white;
+}
+.heroine-bg{
+  background-color:DeepSkyBlue ;
+  height: 600px;
+  width: 100%;
+
+}
+.heroine-text{
+  align-content: center;
+  position: relative;
+  top: 10%;
+  text-align: center;
+  color: white;
+}
+
+.about-text{
+  text-align:justify;
+  position: relative;
+  font-size: 14px;
+  color: white;
+  font-family: serif;
+  font-style: italic;
+}
+.tile1{
+  background-color: White;
+  height: 270px;
+  width:100%;
+}
+.education-tile{
+  background-color:White;
+  height: 450px;
+  width:100%;
+}
+.skills-tile{
+  background-color:White;
+  height: 1100px;
+  width:100%;
+}
+.hobbies-tile{
+  background-color:White;
+  height: 300px;
+  width:100%;
+}
+.footer-tile{
+  background-color:DeepSkyBlue;
+  height: 200px;
+  width:100%;
+}
+.matter{
+  top: 50px;
+}
+.matter2{
+  top:80px;
+}
+.matter3{
+  top: 20px;
+}
+h4{
+  font-size:250%;
+  font-family: serif;
+  font-style: italic;
+  color: DeepSkyBlue;
+}
+p{
+  font-family: serif;
+}
