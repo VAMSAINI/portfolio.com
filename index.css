@@ -1,3 +1,9 @@
+html, body {
+  width: 99.5%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
 .hero-image {
   background-image: url("computer_Cofee3.jpeg");
   height: 600px;
@@ -17,7 +23,7 @@
 }
 .heroine-bg{
   background-color:DeepSkyBlue ;
-  height: 100%;
+  height: 600px;
   width: 100%;
 
 }
@@ -30,11 +36,12 @@
 }
 
 .about-text{
-  text-align: center;
+  text-align:justify;
   position: relative;
-  font-size: 14px;
+  font-size: 16px;
   color: white;
-  font-family: sans-serif;
+  font-family: serif;
+  font-style: italic;
 }
 .tile1{
   background-color: White;
@@ -48,7 +55,7 @@
 }
 .skills-tile{
   background-color:White;
-  height: 1101px;
+  height: 1100px;
   width:100%;
 }
 .hobbies-tile{
